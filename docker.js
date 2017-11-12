@@ -105,6 +105,6 @@ module.exports.health = {
     query: 'select 1'
 };
 module.exports.oauth = {
-    allowedHosts: ['localhost.localdomain', 'carto.com', 'cartodb.com']
+    allowedHosts: ['localhost.localdomain', 'carto.com', 'cartodb.com', 'carto.dev']
 };
 module.exports.disabled_file = 'pids/disabled';

@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Milo van der Linden <milo@dogodigi.net>
+MAINTAINER Shoaib <shoaib@geografa.com.au>
 
 ENV CARTO_ENV development
 ENV CARTO_DB_PREFIX cartodb_dev_user_
